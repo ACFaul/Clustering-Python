@@ -6,3 +6,5 @@ Suggested order to learn from this:
 - 1DMixture_scipy_stats
 - 2DMixture
 - InferGaussianMixture
+- 2DBayesianMixture
+- InferBayesianMixture

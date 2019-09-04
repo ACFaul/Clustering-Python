@@ -8,3 +8,4 @@ Suggested order to learn from this:
 - InferGaussianMixture
 - 2DBayesianMixture
 - InferBayesianMixture
+- Chinese Restaurant Process

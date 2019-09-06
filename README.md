@@ -9,4 +9,4 @@ Suggested order to learn from this:
 - 2DBayesianMixture
 - InferBayesianMixture
 - ChineseRestaurantProcess
-- InferDP
+- InferDirichletProcess

@@ -10,3 +10,4 @@ Suggested order to learn from this:
 - InferBayesianMixture
 - ChineseRestaurantProcess
 - InferDirichletProcess
+- sklearnDirichletProcess
